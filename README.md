@@ -1,8 +1,4 @@
-# Diffusion-based Counterfactual Augmentation for Knee Osteoarthritis Grading
-
-[](https://arxiv.org/abs/2402.04868)
-[](https://opensource.org/licenses/MIT)
-[](https://pytorch.org/)
+# Diffusion-based Counterfactual Augmentation: Towards Robust and Interpretable Knee Osteoarthritis Grading
 
 This repository contains the official implementation of **Diffusion-based Counterfactual Augmentation (DCA)**, a novel framework to improve the robustness and interpretability of models for Knee Osteoarthritis (KOA) grading.
 
